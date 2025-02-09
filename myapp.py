@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st 
 
-
 ## setting web_page configuration 
 st.set_page_config(
     page_title = "Data Master",
